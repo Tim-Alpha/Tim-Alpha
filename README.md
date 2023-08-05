@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nk-code-lab&label=Profile%20views&color=0e75b6&style=flat" alt="nk-code-lab" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics and Three.js**
+- 🌱 I’m currently learning **React Native and Three.js**
 
 - 👨‍💻 All of my projects are available at [https://nk-code-lab.github.io/portfolio-sachin-kinha/](https://nk-code-lab.github.io/portfolio-sachin-kinha/)
 
-- 💬 Ask me about **Web Development, Competitive Programming and Web-3**
+- 💬 Ask me about **Android Development, Competitive Programming and Web-3**
 
 - 📫 How to reach me **sachinkinha1913@gmail.com**
 
