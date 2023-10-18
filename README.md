@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nk-code-lab&label=Profile%20views&color=0e75b6&style=flat" alt="nk-code-lab" /> </p>
 
-- 🌱 I’m currently learning **DSA and Laravel**
+- 🌱 I’m currently learning **DSA and AWS**
 
 - 👨‍💻 All of my projects are available at [https://nk-code-lab.github.io/portfolio-sachin-kinha/](https://nk-code-lab.github.io/portfolio-sachin-kinha/)
 
