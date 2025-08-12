@@ -97,13 +97,25 @@
 ## 📊 GitHub Analytics Dashboard
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tim-Alpha&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tim-Alpha&theme=radical&hide_border=true" />
-</div>
 
-<div align="center">
+### GitHub Overview
+<a href="https://github.com/Tim-Alpha">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tim-Alpha&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/Tim-Alpha">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tim-Alpha&theme=radical&hide_border=true" />
+</a>
+
+### Languages
+<a href="https://github.com/Tim-Alpha">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-Alpha&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tim-Alpha&theme=radical&hide_border=true" />
+</a>
+
+### GitHub Contributions Graph
+<a href="https://github.com/Tim-Alpha">
+  <img src="https://ghchart.rshah.org/FF0000/Tim-Alpha" alt="Tim-Alpha's Github chart" />
+</a>
+
 </div>
 
 ---
@@ -134,7 +146,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tim-Alpha/Tim-Alpha/output/github-contribution-grid-snake.svg" />
@@ -143,7 +155,7 @@
 
 > **Note**: To make the snake animation work, you'll need to set up GitHub Actions. Create `.github/workflows/snake.yml` in your profile repository with the configuration below.
 
----
+--- -->
 
 <!-- ## 💻 Recent GitHub Activity -->
 
