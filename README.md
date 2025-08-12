@@ -102,6 +102,8 @@
 <a href="https://github.com/Tim-Alpha">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tim-Alpha&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 </a>
+
+### Streak
 <a href="https://github.com/Tim-Alpha">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tim-Alpha&theme=radical&hide_border=true" />
 </a>
