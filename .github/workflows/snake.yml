@@ -16,7 +16,9 @@ jobs:
           github_user_name: Tim-Alpha
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN_SECRETS }}
             
       - uses: crazy-max/ghaction-github-pages@v2.6.0
         with:

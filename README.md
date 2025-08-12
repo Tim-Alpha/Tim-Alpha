@@ -137,7 +137,8 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tim-Alpha/Tim-Alpha/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Tim-Alpha/Tim-Alpha/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Tim-Alpha/Tim-Alpha/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </div>
 
 > **Note**: To make the snake animation work, you'll need to set up GitHub Actions. Create `.github/workflows/snake.yml` in your profile repository with the configuration below.
@@ -148,10 +149,10 @@
 
 <!--START_SECTION:activity-->
 <!-- 1. 🎉 Merged PR in [Project-Name]
-2. 💪 Opened PR in [Another-Project]
-3. ⭐ Starred [Awesome-Repo]
-4. 🗣 Commented on issue in [Open-Source-Project]
-5. 🚀 Published release v2.0.0 -->
+1. 💪 Opened PR in [Another-Project]
+2. ⭐ Starred [Awesome-Repo]
+3. 🗣 Commented on issue in [Open-Source-Project]
+4. 🚀 Published release v2.0.0 -->
 <!--END_SECTION:activity-->
 
 <!-- --- -->
