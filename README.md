@@ -144,28 +144,28 @@
 
 ---
 
-## 💻 Recent GitHub Activity
+<!-- ## 💻 Recent GitHub Activity -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR in [Project-Name]
+<!-- 1. 🎉 Merged PR in [Project-Name]
 2. 💪 Opened PR in [Another-Project]
 3. ⭐ Starred [Awesome-Repo]
 4. 🗣 Commented on issue in [Open-Source-Project]
-5. 🚀 Published release v2.0.0
+5. 🚀 Published release v2.0.0 -->
 <!--END_SECTION:activity-->
 
----
+<!-- --- -->
 
-## 📝 Latest Blog Posts
+<!-- ## 📝 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Real-time Systems with WebSockets](https://your-blog.com)
+<!-- - [Building Real-time Systems with WebSockets](https://your-blog.com)
 - [Solana Smart Contracts: A Deep Dive](https://your-blog.com)
 - [Scaling Node.js Applications](https://your-blog.com)
-- [Multi-chain Wallet Integration Guide](https://your-blog.com)
+- [Multi-chain Wallet Integration Guide](https://your-blog.com) -->
 <!-- BLOG-POST-LIST:END -->
 
----
+<!-- --- -->
 
 ## 🎯 Current Focus
 
@@ -206,7 +206,7 @@
 </div>
 
 ---
-
+<!-- 
 ## 📌 Setup Instructions
 
 ### For the Contribution Snake Animation:
@@ -240,8 +240,8 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
+``` -->
+<!-- 
 ### For Recent Activity Updates:
 
 Create `.github/workflows/update-readme.yml`:
@@ -263,14 +263,14 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+``` -->
 
-### For Blog Post Updates (if you have a blog):
+<!-- ### For Blog Post Updates (if you have a blog): -->
 
-Add this to your workflow:
+<!-- Add this to your workflow:
 
 ```yaml
 - uses: gautamkrishnar/blog-post-workflow@master
   with:
     feed_list: "https://your-blog.com/feed.xml"
-```
+``` -->
