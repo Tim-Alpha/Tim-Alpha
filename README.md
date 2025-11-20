@@ -105,12 +105,12 @@
 
 ### Streak
 <a href="https://github.com/Tim-Alpha">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tim-Alpha&theme=radical&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Tim-Alpha&theme=radical&hide_border=true" />
 </a>
 
 ### Languages
 <a href="https://github.com/Tim-Alpha">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-Alpha&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tim-Alpha&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </a>
 
 ### GitHub Contributions Graph
