@@ -104,9 +104,7 @@
 </a>
 
 ### Streak
-<a href="https://github.com/Tim-Alpha">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Tim-Alpha&theme=radical&hide_border=true" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats-olive-beta-76.vercel.app?user=Tim-Alpha)](https://git.io/streak-stats)
 
 ### Languages
 <a href="https://github.com/Tim-Alpha">
