@@ -118,7 +118,7 @@
 ## 🏆 Achievement Showcase
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tim-Alpha&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Tim-Alpha&show_icons=true&theme=tokyonight" />
 </div>
 
 ---
