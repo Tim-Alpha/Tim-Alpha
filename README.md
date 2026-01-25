@@ -106,11 +106,6 @@
 ### Streak
 [![GitHub Streak](https://github-readme-streak-stats-olive-beta-76.vercel.app?user=Tim-Alpha)](https://git.io/streak-stats)
 
-### Languages
-<a href="https://github.com/Tim-Alpha">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tim-Alpha&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</a>
-
 </div>
 
 ---
